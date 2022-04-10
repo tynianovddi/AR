@@ -21,6 +21,7 @@
       <a-entity camera></a-entity>
     </a-scene>
   </div>
+
 </template>
 
 <script>
