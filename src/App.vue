@@ -1,6 +1,4 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <h1>hello</h1>
   <AR/>
 </template>
 
